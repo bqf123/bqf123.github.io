@@ -5,15 +5,15 @@ baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
 title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+subtitle: "孙博辰妈妈是好人！"
+description: "第一个博客"
+keywords: 早八大学生
+timezone: Asia/Beijing
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2024
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: bqf123/bqf123.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
